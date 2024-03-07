@@ -1,0 +1,5 @@
+i=int(input("enter any number:= "))
+if(i<=10):
+    print("I am Smaller than 10")
+else:
+    print("I am Greater than 10")
